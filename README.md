@@ -1,5 +1,8 @@
 # Automated-Pink-Eye-Detection-using-Machine-Learning
 
+##Problem Statement:
+
+
 
 Pink eye, also known as conjunctivitis, is a common eye condition that can be caused by various factors including bacterial or viral infections, allergies, or irritants. Early detection and treatment of pink eye are crucial to prevent its spread and ensure timely medical intervention. However, diagnosing pink eye can be challenging, especially in its early stages, and it often relies on the subjective judgment of healthcare professionals.
 
